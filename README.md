@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ModernConnect<br>👨‍💻 All of my projects are available at https://github.com/SarveshJoshi25?tab=repositories<br>📄 Know about my experiences https://linktr.ee/_sarveshjoshi<br>📫 How to reach me contact.sarveshjoshi@gmail.com<br>⚡ Fun fact I can talk about Hip-hop, startups, and Minecraft for infinite minutes.
+🔭 I’m currently working on: ModernConnect<br>👨‍💻 All of my projects are available at: https://github.com/SarveshJoshi25?tab=repositories<br>📄 Links to other profiles and resume: https://linktr.ee/_sarveshjoshi<br>⚡ Fun fact:  I can talk about Hip-hop, startups, and Minecraft for infinite minutes.
 
 
 ## 🌐 Socials:
