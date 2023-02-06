@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Django, MongoDB and NodeJS<br>👨‍💻 All of my projects are available [here](https://github.com/SarveshJoshi25?tab=repositories)<br>📄 Links to other profiles and resume: [Linktree](https://linktr.ee/_sarveshjoshi)<br>⚡ Fun fact:  I can talk about Hip-hop, startups for infinite minutes.
+🔭 I’m currently working on: Django, MongoDB and NodeJS<br>👨‍💻 All of my projects are available [here](https://github.com/SarveshJoshi25?tab=repositories)<br>📄 Links to other profiles and resume: [Linktree](https://linktr.ee/_sarveshjoshi)<br>
 
 
 ## 🌐 Socials:
